@@ -1,14 +1,8 @@
 # awesome-lithuania
 
-<!-- MarkdownTOC -->
+Сборник ссылок на то, что помогает в Литве жить и работать.
 
-- [Интернет-магазины][shopping]
-
-<!-- /MarkdownTOC -->
-
-- [Онлайн-запись](http://vilnius.kdmid.ru/queue/) в российское консульство
-
-## Интернет-магазины[shopping]
+## Интернет-магазины
 
 Сильно не хватает местного Яндекс.Маркета, но в целом магазинов мало, поискать в каждом — не проблема.
 
@@ -20,5 +14,25 @@
 - [rde.lt](http://rde.lt)
 - [lemona.lt](https://lemona.lt)
 
-Доски объявлений
-- http://ru.www.www.raimins.skelbiu.lt
+Доски объявлений:
+
+- http://ru.skelbiu.lt/
+
+Автомобильные товары и автозапчасти:
+
+- [Autoplius](http://ru.autoplius.lt/)
+- https://www.e-tanagra.com/
+- http://www.tanagra.lt/
+
+## Медицина и здоровье
+
+Запись к врачам
+
+Стоматология:
+
+- Детская клиника [Futuri Dentes](http://facebook.com/futuri.dentes/), но примут и взрослого. Владелица [Анна Жидких](https://www.facebook.com/anna.futuri.dentes)
+- [Šv. Kristoforo odontologijos klinika](kristoforoklinika.lt/en/)
+
+## Прочее
+
+- [Онлайн-запись](http://vilnius.kdmid.ru/queue/) в российское консульство
