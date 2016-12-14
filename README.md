@@ -4,15 +4,14 @@
 
 ## Интернет-магазины
 
-Сильно не хватает местного Яндекс.Маркета, но в целом магазинов мало, поискать в каждом — не проблема.
+Сильно не хватает местного Яндекс.Маркета, но в целом магазинов мало.
 
-- [Pigu.lt](https://pigu.lt)
-- [skytech.lt](https://www.skytech.lt)
+- [Pigu.lt](https://pigu.lt) - все подряд
+- [skytech.lt](https://www.skytech.lt) - бытовая техника, компьютеры, прочая электроника
 - [1a.lt](https://1a.lt)
 - [varle.lt](http://varle.lt)
-- [pigu.lt](http://pigu.lt)
 - [rde.lt](http://rde.lt)
-- [lemona.lt](https://lemona.lt)
+- [Lemona](https://lemona.lt) - электротехнические компоненты
 
 Доски объявлений:
 
@@ -22,16 +21,24 @@
 
 - [Autoplius](http://ru.autoplius.lt/)
 - https://www.e-tanagra.com/
-- http://www.tanagra.lt/
+- [Xdalys](http://xdalys.lt)
+
+Хорошие неофициальные автомобильные сервисы
+
+- Mercedes: http://www.rimoservisas.lt/
+- Subaru: http://www.ltauto.lt/
 
 ## Медицина и здоровье
 
-Запись к врачам
+Запись к врачам:
+
+-  https://www.manodaktaras.lt
+-  https://www.pincetas.lt/
 
 Стоматология:
 
 - Детская клиника [Futuri Dentes](http://facebook.com/futuri.dentes/), но примут и взрослого. Владелица [Анна Жидких](https://www.facebook.com/anna.futuri.dentes)
-- [Šv. Kristoforo odontologijos klinika](kristoforoklinika.lt/en/)
+- [Šv. Kristoforo odontologijos klinika](kristoforoklinika.lt/en/), Вильнюс, Жверинас.
 
 ## Прочее
 
