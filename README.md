@@ -40,6 +40,11 @@
 - Детская клиника [Futuri Dentes](http://facebook.com/futuri.dentes/), но примут и взрослого. Владелица [Анна Жидких](https://www.facebook.com/anna.futuri.dentes)
 - [Šv. Kristoforo odontologijos klinika](kristoforoklinika.lt/en/), Вильнюс, Жверинас.
 
+## Образование
+
+- [русско-литовский и литовско-русский словарь](http://rulit.lt)
+
+
 ## Прочее
 
 - [Онлайн-запись](http://vilnius.kdmid.ru/queue/) в российское консульство
