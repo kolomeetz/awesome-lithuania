@@ -47,4 +47,5 @@
 
 ## Прочее
 
+- [Температура воды в Литве](http://old.meteo.lt/hidro_informacija.php)
 - [Онлайн-запись](http://vilnius.kdmid.ru/queue/) в российское консульство
